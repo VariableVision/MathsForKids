@@ -1,2 +1,2 @@
 # MathsForKids
-MathsForKids is created to facilitate the teaching of simple mathematics. 
+MathsForKids application was created to facilitate the teaching of simple mathematics. 
