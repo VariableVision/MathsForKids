@@ -1,0 +1,9 @@
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/MathsForKids.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/MathsForKids_autogen_timestamp_deps.dir
+C:/Learning/Portfolio Projects/Games/MathsForKids/build-MathsForKids-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/MathsForKids_autogen.dir
